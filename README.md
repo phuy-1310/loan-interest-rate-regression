@@ -1,14 +1,23 @@
-# Flight Delay Classification
+# Loan Interest Rate Prediction
 
-Mô hình dự đoán trạng thái chuyến bay:
+---
+## Project Overview
 
-- On_Time
-- Delayed
-- Diverted
-- Cancelled
 
-## Techniques
-- Data Cleaning
-- EDA
-- Feature Engineering
-- Machine Learning
+
+---
+
+## Business Problem
+Financial institutions need to determine suitable interest rates for loan applicants while balancing profitability and credit risk.
+
+---
+
+## Project Goal
+
+
+---
+
+## Dataset
+https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv?select=loan.csv
+
+---
