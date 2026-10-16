@@ -18,12 +18,38 @@ Financial institutions need to determine suitable interest rates for loan applic
 ---
 
 ## Dataset
+The dataset is not included in this repository due to its large size.
+
+Dataset link:
 https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv?select=loan.csv
+
+
+Place the dataset in:
+data/
 
 ---
 
-## Workflow
+## Project Structure
 
+```text
+loan-interest-rate-prediction/
+│
+├── data/
+|
+│
+├── notebooks/
+│   ├── 01_.ipynb
+│   ├── 02_.ipynb
+│   ├── 03_.ipynb
+|   └── ...
+│
+│
+├── README.md
+```
+
+---
+
+## Work
 1. Data Collection
 2. Exploratory Data Analysis (EDA)
 3. Data Preprocessing
