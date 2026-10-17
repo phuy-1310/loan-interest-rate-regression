@@ -49,10 +49,12 @@ loan-interest-rate-prediction/
 
 ---
 
-## Work
-1. Data Collection
-2. Exploratory Data Analysis (EDA)
-3. Data Preprocessing
+## Workflow
+1. Exploratory Data Analysis (EDA)
+2. Data Preprocessing
+3. Feature Engineering
+4. Data Splitting
+5. Model Training
 ...
 
 ---
