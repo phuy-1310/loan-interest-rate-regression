@@ -38,7 +38,7 @@ loan-interest-rate-prediction/
 |
 │
 ├── notebooks/
-│   ├── 01_.ipynb
+│   ├── eda_and_preprocessing.ipynb
 │   ├── 02_.ipynb
 │   ├── 03_.ipynb
 |   └── ...
