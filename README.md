@@ -39,8 +39,8 @@ loan-interest-rate-prediction/
 │
 ├── notebooks/
 │   ├── eda_and_preprocessing.ipynb
-│   ├── 02_.ipynb
-│   ├── 03_.ipynb
+│   ├── labeling_target_by_summary_statistics.ipynb
+│   ├── labeling_target_by_data_augmentation.ipynb
 |   └── ...
 │
 │
@@ -52,9 +52,8 @@ loan-interest-rate-prediction/
 ## Workflow
 1. Exploratory Data Analysis (EDA)
 2. Data Preprocessing
-3. Feature Engineering
-4. Data Splitting
-5. Model Training
+3. Data Splitting
+4. Labeling Data for Regression
 ...
 
 ---
